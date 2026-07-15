@@ -1,0 +1,6 @@
+numpy
+pytest
+
+# tensorflow is OPTIONAL and only needed for stage 7 (the Keras bridge).
+# Stages 1-6 and their tests do not require it.
+# tensorflow
