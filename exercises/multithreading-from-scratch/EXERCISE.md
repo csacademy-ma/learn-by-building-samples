@@ -812,4 +812,4 @@ section, a wait-until-ready queue, and a discipline for avoiding deadlock.
 ---
 
 Want to do this interactively instead, with hints and a review of your finished code?
-Install the learn-by-building skill: https://github.com/<your-username>/<your-learn-by-building-repo>
+Install the learn-by-building skill: [learn-by-building](https://github.com/csacademy-ma/learn-by-building)
