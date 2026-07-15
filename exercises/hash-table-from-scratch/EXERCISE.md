@@ -790,7 +790,7 @@ the gap this exercise was designed to close.
 ## Want more than a static exercise?
 
 Want to do this interactively instead, with hints and a review of your finished code? Install
-the learn-by-building skill: https://github.com/<your-username>/<your-learn-by-building-repo>
+the learn-by-building skill: [learn-by-building](https://github.com/csacademy-ma/learn-by-building)
 
 ## Run everything
 
