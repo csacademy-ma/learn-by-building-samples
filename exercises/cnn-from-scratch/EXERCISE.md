@@ -1049,4 +1049,4 @@ pytest tests/ -v
 
 Want to do this interactively instead, with hints and a review of your
 finished code? Install the learn-by-building skill:
-https://github.com/<your-username>/<your-learn-by-building-repo>
+[https://github.com/<your-username>/<your-learn-by-building-repo>](https://github.com/csacademy-ma/learn-by-building)
