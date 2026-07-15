@@ -842,7 +842,7 @@ mechanism underneath all four.
 ## Want more than a static exercise?
 
 Want to do this interactively instead, with hints and a review of your finished code? Install
-the learn-by-building skill: [https://github.com/<your-username>/<your-learn-by-building-repo>](https://github.com/csacademy-ma/learn-by-building)
+the learn-by-building skill: [learn-by-building](https://github.com/csacademy-ma/learn-by-building)
 
 ## Run everything
 
