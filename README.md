@@ -1,10 +1,10 @@
 # learn-by-building-samples
 
-Static, worked examples of the exercises produced by the **[learn-by-building](https://github.com/<your-username>/<your-learn-by-building-repo>)** Claude skill — read-only walkthroughs you can follow on your own, no AI required.
+Static, worked examples of the exercises produced by the **[learn-by-building](https://github.com/csacademy-ma/learn-by-building)** Claude skill — read-only walkthroughs you can follow on your own, no AI required.
 
 Each exercise below is a single markdown file containing every stage of a "build the concept from scratch" project: the concept explained just enough to attempt it, a function/class signature with worked examples, and a pointer to the matching test file. A `starter/` folder has the stub code to fill in, and a `tests/` folder has the (leetcode-style) automated tests that check your work, stage by stage.
 
-**Want the interactive version instead?** These markdown files are frozen snapshots — there's no one to ask for a hint, no one to check your reasoning, and no one to grade your finished code. For that, install the **[learn-by-building skill](https://github.com/<your-username>/<your-learn-by-building-repo>)** in Claude and just ask to learn something by building it (e.g. "help me understand hash tables by implementing one") — it'll design a project like these live, tailored to your time budget and experience level, and review your code when you're done.
+**Want the interactive version instead?** These markdown files are frozen snapshots — there's no one to ask for a hint, no one to check your reasoning, and no one to grade your finished code. For that, install the **[learn-by-building](https://github.com/csacademy-ma/learn-by-building)** in Claude and just ask to learn something by building it (e.g. "help me understand hash tables by implementing one") — it'll design a project like these live, tailored to your time budget and experience level, and review your code when you're done.
 
 ## Exercises
 
